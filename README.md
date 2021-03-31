@@ -1,4 +1,4 @@
-<img style="border-radius: 10px;" src="https://github.com/rk-rishikesh/rk-rishikesh/cover.png"/>
+<img style="border-radius: 10px;" src="https://github.com/rk-rishikesh/rk-rishikesh/Cover.png"/>
 
 ####  
 I am a budding Blockchain Developer and an avid learner, looking for internship opportunities and working on new projects to gain more practical blockchain development experience. I am always interested learning more about blockchain related technologies and tools.
