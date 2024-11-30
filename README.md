@@ -1,9 +1,9 @@
 <img style="border-radius: 10px;" src="https://github.com/rk-rishikesh/rk-rishikesh/blob/main/Cover.png"/>
 
 ####  
-I am a Blockchain Developer and an avid learner, looking for opportunities to work on new projects to gain more practical blockchain development experience. I am always interested learning more about blockchain related technologies and tools.
+Hey, I am Rishikesh, Developer Advocate, Filecoin 👋
 
-Skills: Ethereum | Hyperledger Fabric | REACT JS | Python
+Skills: Ethereum | Hyperledger Fabric | REACT JS | Next JS | Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rk-rishikesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rishikeshkale/)  
 
