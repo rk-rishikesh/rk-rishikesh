@@ -1,16 +1,63 @@
-<img style="border-radius: 10px;" src="https://github.com/rk-rishikesh/rk-rishikesh/blob/main/Cover.png"/>
+# Hi there, I'm Rishh 👋
 
-####  
-Hey, I am Rishikesh, Developer Advocate, Filecoin 👋
+## Full Stack Blockchain Developer • Developer Advocate • 19× Web3 Hackathon Winner
 
-Skills: Ethereum | Hyperledger Fabric | REACT JS | Next JS | Python
+![Image](https://github.com/user-attachments/assets/b513ba08-a9df-4917-b2f0-8bceb90d0173)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rk-rishikesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rishikeshkale/)  
+I'm passionate about building and scaling developer ecosystems across Web3 protocols. With a developer-first mindset shaped by winning 19 global hackathons, I understand what makes developers tick and how to create engaging technical experiences.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-rishikesh)](https://github.com/anuraghazra/github-readme-stats)
+### 🔭 What I Do
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rk-rishikesh)  
+- Developer Relations: Help protocols grow from zero to 100+ engaged developers
 
+- Technical Content: Create guides, tutorials, and documentation that developers love
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rk-rishikesh" alt="rk-rishikesh" /> </p>
-<p align="center"> <img src="https://gpvc.arturio.dev/rk-rishikesh" alt="rk-rishikesh" /> </p>
+- Community Building: Design programs that foster thriving developer communities
+
+- Full Stack Development: Build end-to-end blockchain applications
+
+### 💼 Protocol Experience
+
+- Filecoin ecosystem development
+
+- NEAR protocol adoption
+
+- Randamu developer engagement
+
+### 🏆 Achievements
+
+- 19× Web3 Hackathon Winner across global competitions
+
+- Helped multiple early-stage projects establish strong developer communities
+
+- Created technical content and resources used by hundreds of blockchain developers
+
+### 🎤 Speaking & Judging
+
+- Conference Speaker at major Web3 events, sharing insights on blockchain development and ecosystem growth
+
+- Hackathon Judge for prominent Web3 competitions, evaluating technical innovation and implementation
+
+- Workshop Facilitator helping developers understand blockchain fundamentals and advanced concepts
+
+- Panel Moderator discussing the future of Web3 technologies and developer ecosystems
+
+### 🌱 Currently Exploring
+
+How AI can redefine DevRel and community engagement in crypto, focusing on:
+
+- AI-powered developer tooling
+
+- Community automation and engagement
+
+- Enhanced onboarding experiences through AI
+
+### 🛠️ Tech Stack
+
+- Blockchain: Ethereum, Filecoin, NEAR, Solidity, IPFS
+
+- Frontend: React, Next.js, TypeScript
+
+- Backend: Node.js, Express
+
+- Web3 Tools: Ethers.js, Web3.js, Hardhat
